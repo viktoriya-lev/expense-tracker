@@ -26,6 +26,7 @@
 
   const toast = useToast();
 
+  // Sample array
   const transactions = ref([
     // { id: 1, text: 'Beautiful Flowers', amount: -19.99 },
     // { id: 2, text: 'Salary', amount: 299.97 },
